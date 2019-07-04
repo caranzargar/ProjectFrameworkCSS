@@ -1,14 +1,38 @@
+body{
+  background: url(../img/paisaje.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+h5{
+  font-family: Arial cursive;
+}
 .barra-superior {
  min-height: 4rem !important;
 }
 div[class*="col"]{
-  min-height: 2.5rem!important;
+  min-height: 1rem!important;
+}
+.contenedor-img{
+  margin: 0;
+  padding: 2.5px!important;
+
 }
 .slogan{
   margin-top: 0.25rem;
   border-radius: 5px;
+  min-height: 1rem!important;
+  opacity: 0.7;
 }
 .responsive-img{
+  width: 100%;
+  border-radius: 5px!important;
+
+}
+.contenedor-social{
   width: 50%;
 }
 .navbar-fixed{
