@@ -1,0 +1,48 @@
+.barra-superior {
+ min-height: 4rem !important;
+}
+div[class*="col"]{
+  min-height: 2.5rem!important;
+}
+.slogan{
+  margin-top: 0.25rem;
+  border-radius: 5px;
+}
+.responsive-img{
+  width: 50%;
+}
+.navbar-fixed{
+  padding-left:0px !important;
+}
+
+div[class*="columna"]{
+  min-height: 50rem !important;
+
+}
+.bloque{
+  height: 25rem !important;
+}
+.encabezado{
+  min-height: 7rem !important;
+}
+.contenedor-publicacion{
+  min-height: 17rem!important;
+  padding: 2rem!important;
+}
+
+.logo-turismo{
+  margin-top: 0.5rem !important;
+  width: 100px;
+}
+.contenedor-noticias{
+  padding: 0.5rem;
+  margin-top: 1rem;
+  min-height: 50rem;
+}
+.columna-news,.columna-chat{
+  padding: 0 !important;
+}
+.imagen-noticia{
+  border: 0.6rem solid #0d47a1 !important;
+  border-radius: 5px;
+}
